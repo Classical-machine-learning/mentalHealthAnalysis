@@ -12,9 +12,4 @@
 - WordCloud
 - words near words -> analysis
 - Specific words of known issues -> counts
-
-
-## To do -> brainstorm
-
-- Category classification
-- Sentiment classification
+- Text Generation
